@@ -1,6 +1,6 @@
 {
-  "name": "github-repos-search",
-  "version": "1.0.0",
+  "name": "fv-test-github-repos-search",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "homepage": "https://github.com/myogeshchavan97/github-repos-search",
